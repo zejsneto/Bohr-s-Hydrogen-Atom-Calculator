@@ -3,7 +3,7 @@
 ## ℹ️ Description
 
 A simple bohr's hydrogen atom calculator with a terminal menu, developed with Python.<br>
-This calculator is a project of the `Modern Physics IV` subject (Python).<br>
+This calculator is a project of the `Modern Physics IV` subject.<br>
 Coded in 2021.2 at the [FEI](https://portal.fei.edu.br/) college, located in São Bernardo do Campo/SP/BR.<br>
 
 ⚠️Some of the code and other parts may be in Portuguese, work in progress for English.
